@@ -1,0 +1,52 @@
+body {
+	background-color: #b3b3cc;
+
+}
+
+.redBox {
+	height:16px;
+	width: 16px;
+	background-color: red;
+	margin-top: -4px;
+	display: inline-block;
+
+}
+
+#center {
+	margin:0 auto;
+	display:inline-block;
+	
+	}
+
+#container {
+
+	margin: 0 auto;
+	background-color: black;
+	display:inline;
+	
+
+}
+
+.box {
+	height:16px;
+	width: 16px;
+	display: inline-block;
+	background-color: white;
+	margin-top: -4px;
+
+}
+
+.clearBox {
+	clear:left;
+}
+
+ul {
+	margin: 0px;
+	padding: 0px;
+	margin-top: -2px;
+
+}
+li {
+	visibility:visible;
+}
+
